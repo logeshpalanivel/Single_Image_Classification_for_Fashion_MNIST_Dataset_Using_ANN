@@ -1,0 +1,1 @@
+# Single_Image_Classification_for_Fashion_MNIST_Dataset_Using_ANN
